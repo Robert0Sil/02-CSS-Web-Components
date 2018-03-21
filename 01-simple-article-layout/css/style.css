@@ -1,0 +1,20 @@
+*{
+	box-sizing: border-box;
+}
+
+ti {
+	background: #000000;
+	color: #ffffff;
+}
+
+.fonts {
+	font-family: Georgia, Platino, serif;
+	font-family: Geneva, Ubuntu, sans-serif;
+	background: #fbf9f1;
+	line-height: 1.25;
+}
+
+ca {
+	
+	color: #77a8d2;
+}
