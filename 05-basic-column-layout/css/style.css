@@ -1,3 +1,45 @@
 *{
 	box-sizing: border-box;
 }
+
+body{
+	font-family: Helvetica Neue;
+	margin: 0 auto;
+}
+
+.titulo-columa{
+	display: block;
+
+}
+
+.titulo-columnas{
+	max-width: 700px;
+	margin: 0 auto;
+}
+
+.contenido-columnas span{
+	display: block;
+	background: #004;
+	color: #cecece;
+	padding: 1px;
+
+}
+
+.contenido-columnas{
+	display: inline-block;
+	width: 20%;
+	margin: 0 auto;
+	
+}
+
+p{
+	width: 100%;
+}
+
+di{
+	color: #bfbfbf;
+}
+
+ro{
+	color: #ff0000;
+}
